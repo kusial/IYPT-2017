@@ -1,0 +1,42 @@
+<table>
+<thead>
+<tr>
+  <th>Sınıf</th>
+  <th>Öğrenci İsmi</th>
+  <th>Numara</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td>9-A</td>
+  <td>Hasan Kutay Apaydın</td>
+  <td>535</td>
+</tr>
+<tr>
+  <td>9-A</td>
+  <td>Süleyman Ceyhun Demir</td>
+  <td>518</td>
+</tr>
+<tr>
+  <td>9-A</td>
+  <td>Ali Berk Arabacı</td>
+  <td>514</td>
+</tr>
+</tbody></table>
+
+
+<h1 id="zamanı-tartmak">(Zamanı Tartmak)</h1>
+
+
+
+<h2 id="özet">Özet</h2>
+
+<p>Öncelikle bu projenin adı “Weighing Time” yani Zamanı Tartmak bu projede malzemelerimiz terazi veya hassas tartı ve bir kum saati. Bu projede amacımız kum saatinin akarken ağırlığının değiştiğini gözlemlemek ve bunu açıklamaktır. İlk olarak bir kum saati terazinin bir kefesine koyulacak ardından kum saati ve içindeki kumun toplam ağırlığı ile aynı gelecek olan ağırlıklar da diğer kefeye koyulacak. Terazinin ortasındaki çıkıntıya bir ayna takılacak ve tam karşına bir lazer konulacak(Bunu yapmamızdaki amaç terazideki hareketi lazerin aynadan bir zemine yansıması ile oluşan hareketi gözlemlemek ve kağıda aktarmak.). Daha sonra kum saati ters çevrilecek ve terazinin hareketini gözlenecek ve açıklanacak. Aşağıda bu deney ile ilgili araştırmayı yaparken kullandığımız kaynakçalar belirtilmiştir.</p>
+
+
+
+<h2 id="kaynakçalar">Kaynakçalar</h2>
+
+<p>1-)<a href="https://physics.stackexchange.com/questions/88826/does-the-weight-of-an-hourglass-change-when-sands-are-falling-inside">https://physics.stackexchange.com/questions/88826/does-the-weight-of-an-hourglass-change-when-sands-are-falling-inside</a> <br>
+2-)<a href="https://www.youtube.com/watch?v=JIVrQQ5jRlc">https://www.youtube.com/watch?v=JIVrQQ5jRlc</a> <br>
+3-)<a href="http://aapt.scitation.org/doi/full/10.1119/1.4973527">http://aapt.scitation.org/doi/full/10.1119/1.4973527</a> <br>
+4-)<a href="http://demoweb.physics.ucla.edu/content/110-weight-hourglass">http://demoweb.physics.ucla.edu/content/110-weight-hourglass</a></p>
